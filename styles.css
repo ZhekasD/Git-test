@@ -5,7 +5,7 @@
 ul li {
   list-style: none;
 }
-header {
+header, aside, main {
   display: block;
 }
 a {
