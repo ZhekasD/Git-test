@@ -8,3 +8,6 @@ ul li {
 header {
   display: block;
 }
+a {
+  text-decoration: none;
+}
